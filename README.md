@@ -1,4 +1,8 @@
-# todos
+# To-Do App
+
+https://todo-st17.netlify.app
+
+A to-do app is a productivity tool that helps users manage and organize tasks. Typically, it allows users to create lists of tasks they need to complete, set priorities, and mark tasks as done when completed.
 
 ## Project setup
 ```
@@ -9,16 +13,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
